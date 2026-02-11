@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "edit_history_tweet_ids": [
+        "2020140735425609795"
+      ],
+      "text": "@SenJoniErnst Pass the SAVE ACT!!",
+      "created_at": "2026-02-07T14:20:58.000Z",
+      "id": "2020140735425609795"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019863947772612677"
+      ],
+      "text": "@SenJoniErnst I didn't think so",
+      "created_at": "2026-02-06T20:01:07.000Z",
+      "id": "2019863947772612677"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "2019863907452743724"
+      ],
+      "text": "@SenJoniErnst Any comment on the racist post by Trump?",
+      "created_at": "2026-02-06T20:00:57.000Z",
+      "id": "2019863907452743724"
+    }
+  ]
+}
